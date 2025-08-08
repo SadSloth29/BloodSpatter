@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644278505098",
+    "project_id": "bloodspatterapp",
+    "storage_bucket": "bloodspatterapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644278505098:android:77cf0aa98f0073773c2773",
+        "android_client_info": {
+          "package_name": "com.yourcompany.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644278505098-uh5mh2bug76fhgsv7hvg93tlch596a6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAxxyaj9F0GSUxeC-AmdXrhPBiLx7C3OE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644278505098-uh5mh2bug76fhgsv7hvg93tlch596a6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
